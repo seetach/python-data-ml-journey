@@ -13,3 +13,12 @@
 - Conditions
 - Loops
 - HackerRank Practice
+
+### Day 3
+- Lists
+- Accessing Elements
+- Adding Elements
+- Removing Elements
+-  Looping Through Lists
+
+-  
